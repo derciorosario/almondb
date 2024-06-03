@@ -41,6 +41,8 @@ function theme_almondb_page_init(moodle_page $PAGE) {
     $PAGE->requires->css('/theme/almondb/css/bootstrap.min.css');
     $PAGE->requires->css('/theme/almondb/css/style.css');
     $PAGE->requires->css('/theme/almondb/css/main.css');
+    $PAGE->requires->css('/theme/almondb/css/codyhouse.css');
+    
     
 
     //$PAGE->requires->js('/theme/almondb/js/jquery-3.4.1.min.js');

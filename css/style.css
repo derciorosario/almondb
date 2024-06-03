@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700");
+
+
 /********** Template CSS **********/
 :root {
     --primary: #0ea2bd;
@@ -650,6 +653,8 @@ h6,
 .dropdown-item{
     color: #000 !important;
 }
+
+
 
 
 
